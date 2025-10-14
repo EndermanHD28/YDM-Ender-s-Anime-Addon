@@ -1,0 +1,21 @@
+{
+  "id": 82104557,
+  "name": "Guerreiro Espiritual: Rukia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "VIRE: Escolha 1 monstro que seu oponente controla como alvo; esse alvo perde 300 de ATK e, al\u00e9m disso, ele n\u00e3o pode atacar enquanto estiver com a face para cima no campo.",
+  "images": [
+    "https://raw.githubusercontent.com/EndermanHD28/YDM-Ender-s-Anime-Addon/main/card_images/guerreiro_espiritual_rukia.png"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1500,
+  "species": "Shinigami",
+  "monster_type": "Flip/Effect",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
+}

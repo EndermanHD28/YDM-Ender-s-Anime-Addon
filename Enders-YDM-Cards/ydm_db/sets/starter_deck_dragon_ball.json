@@ -1,0 +1,250 @@
+{
+  "name": "A Lenda dos Super Saiyajins!",
+  "code": "LDSS",
+  "type": "Starter Deck",
+  "date": "10-10-2025",
+  "image": "https://raw.githubusercontent.com/EndermanHD28/YDM-Ender-s-Anime-Addon/main/set_images/starter_deck_dragon_ball.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 38232908,
+      "code": "LDSS-000",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9488772,
+      "code": "LDSS-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58309149,
+      "code": "LDSS-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15717949,
+      "code": "LDSS-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15277585,
+      "code": "LDSS-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15277585,
+      "code": "LDSS-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31118173,
+      "code": "LDSS-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31118173,
+      "code": "LDSS-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27737709,
+      "code": "LDSS-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27737709,
+      "code": "LDSS-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74533281,
+      "code": "LDSS-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74533281,
+      "code": "LDSS-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19291593,
+      "code": "LDSS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72133329,
+      "code": "LDSS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27066689,
+      "code": "LDSS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89618040,
+      "code": "LDSS-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70915967,
+      "code": "LDSS-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70915967,
+      "code": "LDSS-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35647046,
+      "code": "LDSS-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25677143,
+      "code": "LDSS-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19743966,
+      "code": "LDSS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53717986,
+      "code": "LDSS-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53717986,
+      "code": "LDSS-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40609883,
+      "code": "LDSS-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88346028,
+      "code": "LDSS-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30977216,
+      "code": "LDSS-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30977216,
+      "code": "LDSS-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25054764,
+      "code": "LDSS-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83774210,
+      "code": "LDSS-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27263756,
+      "code": "LDSS-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9394329,
+      "code": "LDSS-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2688864,
+      "code": "LDSS-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7342913,
+      "code": "LDSS-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 892561,
+      "code": "LDSS-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49244788,
+      "code": "LDSS-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21407737,
+      "code": "LDSS-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82098041,
+      "code": "LDSS-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95169208,
+      "code": "LDSS-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8875027,
+      "code": "LDSS-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49776787,
+      "code": "LDSS-039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
